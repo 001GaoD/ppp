@@ -1,4 +1,2 @@
-qqqq: 111
-wwww: 222
-eeee: 333
-dddd: 444
+server:
+  info: 1111111
